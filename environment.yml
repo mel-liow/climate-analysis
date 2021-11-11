@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - ipykernel
+  - ipywidgets
   - ipython>=7.15
   - altair_saver
   - altair>=4.1.0
